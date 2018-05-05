@@ -5,6 +5,10 @@
 代理IP请自行百度
 找到免费代理IP可以用python爬下来
 
+在使用前请确保111.txt中有代理IP
+
+默认使用HTTP代理
+
 translate:
 
 
